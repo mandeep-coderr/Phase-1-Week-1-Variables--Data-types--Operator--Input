@@ -13,3 +13,8 @@ total_price = blue_berries_price + tax_amount
 print(total_price)
 is_expensive = total_price >= 1200
 print(f"{is_expensive}, This fruit is expensive")
+
+
+
+
+
