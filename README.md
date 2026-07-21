@@ -4,9 +4,6 @@
 
 **Variables, Data Types, Operators & Input**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-brightgreen?style=for-the-badge)
-
 </div>
 
 Welcome to **Week 1** of the Python Backend Roadmap! 
@@ -59,9 +56,6 @@ python "1. Variables and Data Types/your_script_name.py"
 
 ---
 
-## 👨‍💻 Author
-
-Built with ❤️ by **Mandeep** 
 Connect with me on GitHub: [@mandeep-coderr](https://github.com/mandeep-coderr)
 
 ---
